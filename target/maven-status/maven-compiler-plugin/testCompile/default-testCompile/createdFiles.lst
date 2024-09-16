@@ -1,0 +1,4 @@
+com\hookclass\Hook.class
+com\stepdefinition\StepDefinition.class
+com\baseclass\BaseClass.class
+com\testrunner\TestRunner.class
